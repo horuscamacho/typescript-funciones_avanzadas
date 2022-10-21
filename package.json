@@ -1,0 +1,26 @@
+{
+  "name": "typescript-funciones_avanzadas",
+  "version": "1.0.0",
+  "description": "** Ejercicios practicos del curso de Typescript: Tipos Avanzados y Funciones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horuscamacho/typescript-funciones_avanzadas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horuscamacho/typescript-funciones_avanzadas/issues"
+  },
+  "homepage": "https://github.com/horuscamacho/typescript-funciones_avanzadas#readme",
+  "dependencies": {
+    "@capacitor/camera": "^4.1.3",
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
